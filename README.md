@@ -1,72 +1,101 @@
 <div align="center">
 
-# ¡Hola! 👋 Soy Juan Assia
-### 👨‍💻 Desarrollador Full Stack
+![Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A53E7&center=true&vCenter=true&width=435&lines=¡Hola!+👋;Soy+Juan+Assia;Desarrollador+FullStack)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-assia-813a9926b/)
-[![GitHub followers](https://img.shields.io/github/followers/Jassia627?style=for-the-badge&logo=github)](https://github.com/Jassia627)
+[![Linkedin: Juan Assia](https://img.shields.io/badge/-Juan_Assia-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-assia-813a9926b/)](https://www.linkedin.com/in/juan-assia-813a9926b/)
+[![GitHub: Jassia627](https://img.shields.io/github/followers/Jassia627?label=follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jassia627)
 
-</div>
-
-## 🚀 Sobre mí
-
-Soy un desarrollador de software especializado en la creación de aplicaciones web y móviles robustas, escalables y centradas en la experiencia del usuario. Mi enfoque se basa en comprender a fondo las necesidades del cliente y transformarlas en soluciones innovadoras que superen sus expectativas.
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-### Frontend
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-### Backend
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-
-### Bases de Datos
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://www.oracle.com/)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## 💼 Experiencia
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</div>
 
-- 💻 Desarrollo de aplicaciones web full stack
-- 📱 Desarrollo de aplicaciones móviles multiplataforma
-- 🔄 Metodologías ágiles (Scrum)
-- 🎯 Enfoque en soluciones escalables y de alta calidad
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Sobre mí
 
-## 📊 Estadísticas de GitHub
+```javascript
+const juan = {
+    roles: ["Desarrollador Full Stack", "Desarrollador Web", "Desarrollador Móvil"],
+    código: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
+    tecnologías: {
+        móvil: ["React Native"],
+        frontEnd: {
+            js: ["React"],
+            css: ["Bootstrap", "Material UI", "Tailwind"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Flask"],
+            java: ["Spring Boot"]
+        },
+        baseDeDatos: ["MongoDB", "MySQL", "Oracle"],
+        metodologías: ["Agile", "Scrum"]
+    }
+};
+```
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30" /> Tecnologías
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jassia627&layout=compact&theme=dark)](https://github.com/Jassia627)
+### 💫 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind)](https://skillicons.dev)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jassia627&show_icons=true&theme=dark)](https://github.com/Jassia627)
+### 🚀 Backend
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs,nodejs,flask,spring)](https://skillicons.dev)
+
+### 🛠 Bases de Datos
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle)](https://skillicons.dev)
+
+### 🔧 Herramientas
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,postman)](https://skillicons.dev)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## 🌟 Aspectos Destacados
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a65-2592-4e96-8d6e-16366367d634.png" width="30" /> Estadísticas
 
-- 🎯 Especializado en desarrollo web y móvil
-- 💡 Enfoque en soluciones innovadoras
-- 🤝 Experiencia en trabajo en equipo
-- 📈 Compromiso con la mejora continua
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=Jassia627&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
 
-## 📫 Contacto
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jassia627&theme=algolia" height="180em" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jassia627&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-¿Interesado en colaborar? ¡Contáctame!
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jassia627&theme=algolia)](https://git.io/streak-stats)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Assia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-assia-813a9926b/)
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Actividad
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jassia627&theme=react-dark&custom_title=Contribuciones&hide_border=true" width="100%">
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30" /> Contacto
 
 <div align="center">
 
-### 👨‍💻 ¡Feliz Coding! 
+<a href="https://www.linkedin.com/in/juan-assia-813a9926b/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" />
+
+### "La única forma de hacer un gran trabajo es amar lo que haces" - Steve Jobs
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### ¡Gracias por visitar mi perfil! 👋
 
 </div>
