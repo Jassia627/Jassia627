@@ -102,10 +102,10 @@ class DesarrolladorFullStack {
 ### 📫 Contacto
 
 <p>
-    <a href="https://www.linkedin.com/in/juan-assia-813a9926b/" target="_blank">
+     <a href="https://www.linkedin.com/in/juan-assia-813a9926b/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:tumail@example.com">
+    <a href="mailto:juanassia627@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
 </p>
