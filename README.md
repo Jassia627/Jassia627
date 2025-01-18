@@ -7,6 +7,7 @@
 * Buscando las mejores prácticas
 * Abierto a aprender de todos
 * Construyendo cosas increíbles
+* Enfocado en desarrollo de apñicaciones moviles, web y de escritorio
 
 ### Tecnologías
 <div align="left">
