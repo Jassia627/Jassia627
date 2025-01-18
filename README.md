@@ -1,6 +1,6 @@
 # 👨‍💻 Desarrollador de Software en progreso...
 
-> tecnico en sistemsa y Desarrollo de Sistemas informaticos 
+> tecnico en sistemas y Desarrollo de Sistemas informaticos 
 
 ### Sobre mí
 * Aprendiendo todo lo que encuentro interesante
