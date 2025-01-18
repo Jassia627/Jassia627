@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jassia627&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=es" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Jassia627&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=es&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jassia627&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&locale=es" alt="Lenguajes más usados" />
