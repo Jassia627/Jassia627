@@ -81,8 +81,17 @@ class DesarrolladorFullStack {
 <div align="center">
 
 <a href="https://github.com/Jassia627/barbershop-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jassia627&repo=barbershop-app&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jassia627&repo=barbershop-app&theme=tokyonight&hide_border=true" />
 </a>
+
+<a href="https://github.com/Jassia627/gestion_prestamos29">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jassia627&repo=gestion_prestamos29&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Jassia627/netxelapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jassia627&repo=netxelapp&theme=tokyonight&hide_border=true" />
+</a>
+
 
 </div>
 
