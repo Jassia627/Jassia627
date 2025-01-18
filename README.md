@@ -88,7 +88,7 @@ class DesarrolladorFullStack {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jassia627&repo=gestion_prestamos29&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Jassia627/netxelapp">
+<a href="https://github.com/Jassia627/netxelapp.">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jassia627&repo=netxelapp&theme=tokyonight&hide_border=true" />
 </a>
 
